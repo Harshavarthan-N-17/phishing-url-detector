@@ -3,3 +3,5 @@
 
    """ def show_reasons(reasons):
     """Display all reasons for marking a URL as unsafe.""" """ - in main.py file
+    
+    """to run this in the terminal powershell - first .\.venv\bin\activate , 
